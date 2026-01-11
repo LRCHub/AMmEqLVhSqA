@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "やさしさで溢れるように",
+  "base_artist": "JUJU",
+  "createdAt": "2026-01-11T14:55:46.600864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/01_やさしさで溢れるように_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/02_やさしさで溢れるように_Flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "Megumi Mori",
+      "has_synced": true,
+      "path": "select/03_やさしさで溢れるように_Megumi_Mori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/04_やさしさで溢れるように_BIGMAMA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/05_やさしさで溢れるように_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "華原朋美",
+      "has_synced": true,
+      "path": "select/06_やさしさで溢れるように_華原朋美.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように - Yasashisa De Afureru Youni",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/07_やさしさで溢れるように_-_Yasashisa_De_Afureru_Youni_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/08_やさしさで溢れるように_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように - Yasashisade Afureruyouni",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/09_やさしさで溢れるように_-_Yasashisade_Afureruyouni_Flower.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "D-LITE",
+      "has_synced": true,
+      "path": "select/10_やさしさで溢れるように_D-LITE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "UNCHAIN",
+      "has_synced": true,
+      "path": "select/11_やさしさで溢れるように_UNCHAIN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "森内寛樹",
+      "has_synced": true,
+      "path": "select/12_やさしさで溢れるように_森内寛樹.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "やさしさで溢れるように",
+      "artist": "Daesung",
+      "has_synced": true,
+      "path": "select/13_やさしさで溢れるように_Daesung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしさで溢れるように",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_やさしさで溢れるように_JUJU.txt"
+    }
+  ]
+}
